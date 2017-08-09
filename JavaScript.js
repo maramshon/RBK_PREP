@@ -8,3 +8,4 @@ function RepeatN(string, n) {
 RepeatN('RBK', 3); // => RBK RBK RBK
 RepeatN('Javascript', 5); // => Javascript Javascript Javascript Javascript Javascript
 x=5;
+Y=10;
