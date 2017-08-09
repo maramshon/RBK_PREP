@@ -10,3 +10,4 @@ RepeatN('Javascript', 5); // => Javascript Javascript Javascript Javascript Java
 x=5;
 Y=10;
 Z=16;
+c=x+y+z;
